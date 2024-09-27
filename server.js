@@ -46,6 +46,10 @@ var root = {
       id:2,
       name:"Zunnurain Badar 1",
       age:201
+  },{
+      id:3,
+      name:"Zunnurain Badar 2",
+      age:201
   }];
   },
   updateUser: (parent, quote) =>{
